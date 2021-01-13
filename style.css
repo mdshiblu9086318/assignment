@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.first-part{
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+    float: left;
+}
+.first-part img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(40deg,lightsalmon,tomato);
+}
+.first-section{
+    height: 800px;
+}
+.second-section{
+    height: 900px;
+}
+.third-section{
+    height: 770px;
+    background: #F5F7FF;
+}
+.second-part img{
+    height:300px;
+    width: 450PX;
+}
+.second-part p{
+    width: 400px;
+}
+.second-part h1{
+    font-size: 30px;
+}
+.second-part{
+    float: left;
+    margin-left: 4%;
+    padding: 40px;
+    background:white;
+    border-radius: 30px;
+}
+.four-section{
+    height: 450px;
+}
+.third-part{
+    background: url("Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 70%;
+    height: 330px;
+    margin: 130px 290px;
+}
+#item{
+    padding: 154px 0px;
+    margin-left: 150px;
+    font-weight: bold;
+}
+#Item{
+    margin:150px 0px ;
+    margin-left: 700px;
+}
+.four-part{
+    float: left;
+}
+.four-section h1{
+    color: white;
+    font-size: 35px;
+}
+.color{
+    color:darkslateblue;
+}
+.color1{
+    color:tomato;
+}
+footer{
+    text-align: center;
+}
+.icon{
+    float: left;
+    margin-left: 25px;
+}
+.icon img{
+    height: 60px;
+    width: 60px;
+}
+.social-icon{
+    height: 150px;
+    margin-left: 815px;
+}
+.ext{
+    height:290px;
+}
+.exp{
+    width: 480px;
+    float: left;
+    padding: 2%;
+    margin-left: 4%;
+    background: #F5F7FF;
+    border-radius: 10px;
+}
